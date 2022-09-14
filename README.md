@@ -1,2 +1,4 @@
 # sparkfoundation
-spark foundation
+
+Data Science and bussiness analytics intern
+
